@@ -157,7 +157,7 @@ Epilogue
 
 For more, visit the (Grail Internet Browser Web Site)[https://sourceforge.net/projects/grail/]
 
-Why Grail: My interest come from this Wiki page (https://en.wikipedia.org/wiki/Grail_(web_browser)[https://en.wikipedia.org/wiki/Grail_(web_browser]). It was originally created by (Guido van Rossum)[https://en.wikipedia.org/wiki/Guido_van_Rossum]
+Why Grail: My interest come from this Wiki page [https://en.wikipedia.org/wiki/Grail_(web_browser)](https://en.wikipedia.org/wiki/Grail_(web_browser)). It was originally created by [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum)
 
 
 My interest is to learn from the code here as I explore it and learn how someone can even run python on the browser client side! (Apart from pre-compiling to ECMAScript ;) )
